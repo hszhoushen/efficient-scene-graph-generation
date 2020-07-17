@@ -1,7 +1,7 @@
 # Focal Loss and Attention mechanism for Efficient Scene Graph Generation
 
 ## Abstract
-This is a tensorflow implementation of [Focal Loss and Attention mechanism for Efficient Scene Graph Generation]((https://some-web) based on RetinaNet in [Focal Loss for Dense Object Detection](https://arxiv.org/pdf/1708.02002.pdf), and it is completed by [Fuxin Duan](https://github.com/xxxxx).
+This is a tensorflow implementation of [Focal Loss and Attention mechanism for Efficient Scene Graph Generation]((https://some-web) based on RetinaNet in [Focal Loss for Dense Object Detection](https://arxiv.org/pdf/1708.02002.pdf), and it is completed by [Fuxin Duan](https://github.com/xxxxx) and Liguang Zhou(https://github.com/hszhoushen).
 
 ![1](new.gif)
 
